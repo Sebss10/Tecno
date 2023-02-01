@@ -1,0 +1,28 @@
+C:\Users\sebas\Documents\Visual Studio 2015\Projects\TEC GA1\TEC GA1\bin\Debug\TEC GA1.exe
+C:\Users\sebas\Documents\Visual Studio 2015\Projects\TEC GA1\TEC GA1\bin\Debug\TEC GA1.pdb
+C:\Users\sebas\Documents\Visual Studio 2015\Projects\TEC GA1\TEC GA1\bin\Debug\TEC GA1.xml
+C:\Users\sebas\Documents\Visual Studio 2015\Projects\TEC GA1\TEC GA1\obj\Debug\TEC GA1.vbprojResolveAssemblyReference.cache
+C:\Users\sebas\Documents\Visual Studio 2015\Projects\TEC GA1\TEC GA1\obj\Debug\TEC_GA1.Form1.resources
+C:\Users\sebas\Documents\Visual Studio 2015\Projects\TEC GA1\TEC GA1\obj\Debug\TEC_GA1.Resources.resources
+C:\Users\sebas\Documents\Visual Studio 2015\Projects\TEC GA1\TEC GA1\obj\Debug\TEC_GA1.U_C.resources
+C:\Users\sebas\Documents\Visual Studio 2015\Projects\TEC GA1\TEC GA1\obj\Debug\TEC GA1.vbproj.GenerateResource.Cache
+C:\Users\sebas\Documents\Visual Studio 2015\Projects\TEC GA1\TEC GA1\obj\Debug\TEC GA1.exe
+C:\Users\sebas\Documents\Visual Studio 2015\Projects\TEC GA1\TEC GA1\obj\Debug\TEC GA1.xml
+C:\Users\sebas\Documents\Visual Studio 2015\Projects\TEC GA1\TEC GA1\obj\Debug\TEC GA1.pdb
+C:\Users\sebas\Documents\Visual Studio 2015\Projects\TEC GA1\TEC GA1\bin\Debug\TEC GA1.exe.config
+C:\Users\sebas\Documents\Visual Studio 2015\Projects\TEC GA1\TEC GA1\obj\Debug\TEC_GA1.ADMI.resources
+C:\Users\sebas\Documents\Visual Studio 2015\Projects\TEC GA1\TEC GA1\obj\Debug\TEC_GA1.SECRE.resources
+D:\ARCHIVOS\TEC GA1-DANIEL SEBASTIÁN HERNÁNDEZ VALLE\TEC GA1\TEC GA1\bin\Debug\TEC GA1.exe.config
+D:\ARCHIVOS\TEC GA1-DANIEL SEBASTIÁN HERNÁNDEZ VALLE\TEC GA1\TEC GA1\obj\Debug\TEC GA1.exe
+D:\ARCHIVOS\TEC GA1-DANIEL SEBASTIÁN HERNÁNDEZ VALLE\TEC GA1\TEC GA1\obj\Debug\TEC GA1.xml
+D:\ARCHIVOS\TEC GA1-DANIEL SEBASTIÁN HERNÁNDEZ VALLE\TEC GA1\TEC GA1\obj\Debug\TEC GA1.pdb
+D:\ARCHIVOS\TEC GA1-DANIEL SEBASTIÁN HERNÁNDEZ VALLE\TEC GA1\TEC GA1\bin\Debug\TEC GA1.exe
+D:\ARCHIVOS\TEC GA1-DANIEL SEBASTIÁN HERNÁNDEZ VALLE\TEC GA1\TEC GA1\bin\Debug\TEC GA1.pdb
+D:\ARCHIVOS\TEC GA1-DANIEL SEBASTIÁN HERNÁNDEZ VALLE\TEC GA1\TEC GA1\bin\Debug\TEC GA1.xml
+D:\ARCHIVOS\TEC GA1-DANIEL SEBASTIÁN HERNÁNDEZ VALLE\TEC GA1\TEC GA1\obj\Debug\TEC GA1.vbprojResolveAssemblyReference.cache
+D:\ARCHIVOS\TEC GA1-DANIEL SEBASTIÁN HERNÁNDEZ VALLE\TEC GA1\TEC GA1\obj\Debug\TEC_GA1.ADMI.resources
+D:\ARCHIVOS\TEC GA1-DANIEL SEBASTIÁN HERNÁNDEZ VALLE\TEC GA1\TEC GA1\obj\Debug\TEC_GA1.Form1.resources
+D:\ARCHIVOS\TEC GA1-DANIEL SEBASTIÁN HERNÁNDEZ VALLE\TEC GA1\TEC GA1\obj\Debug\TEC_GA1.Resources.resources
+D:\ARCHIVOS\TEC GA1-DANIEL SEBASTIÁN HERNÁNDEZ VALLE\TEC GA1\TEC GA1\obj\Debug\TEC_GA1.SECRE.resources
+D:\ARCHIVOS\TEC GA1-DANIEL SEBASTIÁN HERNÁNDEZ VALLE\TEC GA1\TEC GA1\obj\Debug\TEC_GA1.U_C.resources
+D:\ARCHIVOS\TEC GA1-DANIEL SEBASTIÁN HERNÁNDEZ VALLE\TEC GA1\TEC GA1\obj\Debug\TEC GA1.vbproj.GenerateResource.Cache
